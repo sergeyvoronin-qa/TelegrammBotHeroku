@@ -1,1 +1,1 @@
-TOKEN = '5346362346:AAFsuppOrwJIXyxehEw_VbLdVM10k7oUukc' # bot token from @BotFather
+TOKEN = '5346362346:AAFsuppOrwJIXyxe' # bot token from @BotFather
